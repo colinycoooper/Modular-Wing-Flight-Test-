@@ -73,8 +73,8 @@ XFLR5 and OpenFOAM predictions.
 | Airfoil selection — XFLR5 2D analysis | Complete |
 | 3D wing analysis — XFLR5 VLM | Complete |
 | Pre-flight analysis pipeline — Python/Jupyter |🔄 In progress|
-| Airframe CAD — Fusion 360 | Planned |
-| CFD analysis — OpenFOAM | Planned |
+| Airframe CAD — Fusion 360 | 🔄 In progress |
+| CFD analysis — ANSYS Fluent | 🔄 In progress |
 | Fabrication | Planned |
 | Flight test campaign | Planned |
 | Post-flight analysis | Planned |
