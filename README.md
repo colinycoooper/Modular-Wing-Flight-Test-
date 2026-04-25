@@ -41,7 +41,7 @@ behavior, and stall characteristics. 3D VLM wing analysis to
 validate planform geometry, CG location, and predict full aircraft 
 polars prior to build.
 
-**CFD Validation — OpenFOAM**
+**CFD Validation — ANSYS Fluent**
 Full 3D Navier-Stokes analysis on final airframe geometry to 
 generate high-fidelity pre-test aerodynamic predictions. Pressure 
 distribution and flow separation analysis for each wing 
