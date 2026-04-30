@@ -1,5 +1,5 @@
 # Modular-Wing-Flight-Test
-Independent UAS flight test program characterizing lift and drag  performance across interchangeable wing configurations using XFLR5,  OpenFOAM, ArduPlane telemetry, and custom Python analysis tools.
+Independent UAS flight test program characterizing lift and drag  performance across interchangeable wing configurations using XFLR5, ANSYS FLuent, ArduPlane telemetry, and custom Python analysis tools.
 # Modular Wing Comparative Aerodynamics — UAS Flight Test Program
 
 ## Overview
@@ -20,7 +20,7 @@ versus predicted analysis.
 - Characterize lift and drag polars (CL vs AoA, CL vs CD) for three 
   distinct wing configurations
 - Compare flight-derived aerodynamic coefficients against XFLR5 and 
-  OpenFOAM pre-flight predictions
+  ANSYS Fluent pre-flight predictions
 - Develop a repeatable data acquisition and post-processing pipeline 
   from ArduPlane Blackbox telemetry
 
